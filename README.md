@@ -14,7 +14,9 @@ Patika Profili = https://app.patika.dev/SilaTan
 
 
    7
+   
   /
+  
  5
  
  1 değeri 7'den küçüktür, sola tarafa gider, 5'ten de küçüktür o yüzden 5'in sol altına yazılır.
