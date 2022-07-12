@@ -13,9 +13,9 @@ Patika Profili = https://app.patika.dev/SilaTan
 2. ----------------------------------------------------
 
 
-   7
+    7
    
-  /
+   /
   
  5
  
@@ -25,8 +25,9 @@ Patika Profili = https://app.patika.dev/SilaTan
 
 
 	  7
-	 /
-	5
+	  
+      /
+   5
  /
 1
 
